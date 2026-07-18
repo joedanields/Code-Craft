@@ -1,6 +1,4 @@
-                     
 import math
-.
 def countDigits(n):
     cnt = int(math.log10(n) + 1)
     return cnt
