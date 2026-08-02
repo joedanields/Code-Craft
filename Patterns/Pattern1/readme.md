@@ -11,7 +11,6 @@ This folder contains C and Python implementations that print an $N \times N$ squ
 * * * * * 
 * * * * * 
 ```
-
 ## Files
 
 - `4x4.c`: C implementation
