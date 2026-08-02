@@ -5,8 +5,7 @@ void pattern1(int N)
     {
         for(int j = 0; j < N; j++)
         {
-            printf("* ");
-        }
+            printf("* ");        }
         printf("\n");
     }
 }
