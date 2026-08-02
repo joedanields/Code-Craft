@@ -9,7 +9,6 @@ class Solution:
                 print("*", end=" ")
             # After printing stars in a row, move to the next line
             print() 
-
 # Driver code
 sol = Solution()
 N = 5  # Set the size of the square (5x5)
